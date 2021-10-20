@@ -21,3 +21,5 @@ yarn add @types/jsonwebtoken -D
 yarn prisma migrate dev ->  create-user
 
 yarn add @prisma/client 
+
+yarn prisma migrate dev ->  create-messages
